@@ -3,7 +3,7 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 
 ## This is a level 2 heading
 
-Link format: [Link](link code here)
+Link format: [My Twitter page](http://twitter.com/ltsfahad)
 
 ## Lecture List
 * BT01 Intro, Notes, and Assets
